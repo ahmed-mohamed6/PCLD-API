@@ -1,4 +1,5 @@
 Private Lessons Center Management System (RESTful API)
+
 A RESTful API for managing a private lessons center, built with .NET Core. This system allows administrators to manage students, teachers, courses, appointments, and halls efficiently.
 
 Features
